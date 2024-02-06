@@ -104,3 +104,4 @@ Para contribuir a este proyecto, por favor considere los siguientes pasos:
 ## Licencia
 
 Este proyecto está licenciado bajo [MIT LICENSE] - vea el archivo [LICENSE.md](LICENSE.md) para más detalles.
+
