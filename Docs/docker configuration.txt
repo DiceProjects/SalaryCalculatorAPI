@@ -1,4 +1,0 @@
-DOCKER CONFIGURACIÓN API CALCULATIONS
-
-1- Creamos primero un contenedor
-docker run -d --name SalaryCalculator-mongodb -p 27017:27017 -v D:/SalaryCalculatorAPI/MongoBD/a/datos/mongodb:/data/db mongo
